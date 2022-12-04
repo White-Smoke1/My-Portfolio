@@ -1,0 +1,59 @@
+.one{
+    position: relative;
+}
+.two{
+    position: absolute !important;
+    right: -0px;
+    bottom: 110px;
+}
+.content{
+    position: relative;
+}
+.pop{
+    position: absolute !important;
+    right: 80px;
+    top: 160px;
+}
+.pop1{
+    position: absolute !important;
+    right: 0px;
+    top: 260px;
+}
+.three{
+    position: relative;
+}
+.four{
+    position: absolute !important;
+    right: -0px;
+    top: 1px;
+}
+.whitecurve{
+    position: absolute;
+    top: 238px;
+    right: 0%;
+    left: 0%;
+}
+.whitecurve{
+    margin: 0px auto !important;
+    z-index: 1;
+}
+.lets-talk{
+    z-index: 2;
+    position: absolute !important;
+    /* position: initial; */
+    right: 40%;
+    top: 69%;
+}
+.lets-talk1{
+    z-index: 2;
+    position: absolute !important;
+    right: 24%;
+    top: 85%;
+}
+.lets-talk2{
+    z-index: 2;
+    position: absolute !important;
+    /* right: 33%;
+    top: 75%; */
+}
+
